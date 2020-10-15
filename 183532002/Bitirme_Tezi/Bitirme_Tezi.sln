@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitirme_Tezi", "Bitirme_Tezi\Bitirme_Tezi.csproj", "{0AD62185-45BF-42D9-AE3B-06DEC33A2387}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Anaokulu", "Anaokulu\Anaokulu.vdproj", "{1B996121-77E9-4624-BD7F-21B1EAA4C34C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD62185-45BF-42D9-AE3B-06DEC33A2387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD62185-45BF-42D9-AE3B-06DEC33A2387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD62185-45BF-42D9-AE3B-06DEC33A2387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD62185-45BF-42D9-AE3B-06DEC33A2387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B996121-77E9-4624-BD7F-21B1EAA4C34C}.Debug|Any CPU.ActiveCfg = Debug
+		{1B996121-77E9-4624-BD7F-21B1EAA4C34C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85F286F-D6DE-4DBD-8DCD-95168C3D54EB}
+	EndGlobalSection
+EndGlobal
